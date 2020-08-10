@@ -20,4 +20,5 @@ A software to detect the facial expression of a person
 
 * Must install OpenCV
 * **Important:** In order to use the pre-trained model, version of tensorflow must be same in google-colab and jupyter notebook(or any order editor used)
-* Use 
+* Google colab currently uses tensorflow version 2.3.0. To install this version on your editor using the follwong command
+  * `pip install tensorflow==2.3.0`
