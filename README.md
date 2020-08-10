@@ -11,6 +11,6 @@ A software to detect the facial expression of a person
 
 ## Note
 
-* The model is created and trained using `Google Colab`. Can be found in the `backend` folder 
-* The model is used along with OpenCV using `Jupyter notebook`. Can be found in the `frontend` folder.
+* The model is created and trained in `Google Colab` notebook under the `backend` folder 
+* The model is used along with OpenCV in`Jupyter notebook` under the `frontend` folder.
 
