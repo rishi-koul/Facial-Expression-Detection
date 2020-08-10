@@ -14,3 +14,10 @@ A software to detect the facial expression of a person
 * The model is created and trained in `Google Colab` notebook under the `backend` folder 
 * The model is used along with OpenCV in`Jupyter notebook` under the `frontend` folder.
 
+---
+
+## Requirements
+
+* Must install OpenCV
+* **Important:** In order to use the pre-trained model, version of tensorflow must be same in google-colab and jupyter notebook(or any order editor used)
+* Use 
